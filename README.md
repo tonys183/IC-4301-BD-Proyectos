@@ -1,5 +1,17 @@
 # IC-4301 — Bases de Datos I
 
+<p align="center">🗃️</p>
+
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square">
+  <img alt="db4o" src="https://img.shields.io/badge/db4o-455A64?style=flat-square">
+</p>
+
+<p align="center">
+  <a href="#proyecto-i-registro-de-biodiversidad">Proyecto I</a> · <a href="#proyecto-de-investigación-gestión-de-biblioteca-con-db4o">Proyecto de investigación</a>
+</p>
+
 Proyectos del curso Bases de Datos I (IC-4301), enfocados en el diseño de sistemas de información y la persistencia de datos. El repositorio reúne una aplicación para registrar biodiversidad y un proyecto de investigación sobre bases de datos orientadas a objetos.
 
 ## Proyecto I (Registro de biodiversidad)
