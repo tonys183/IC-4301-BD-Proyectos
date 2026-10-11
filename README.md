@@ -3,8 +3,8 @@
 <p align="center">🗃️</p>
 
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img alt="db4o" src="https://img.shields.io/badge/db4o-455A64?style=flat-square">
 </p>
 
